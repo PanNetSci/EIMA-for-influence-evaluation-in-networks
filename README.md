@@ -10,4 +10,4 @@ This project primarily addresses how to accurately measure the actual influence 
 ## Contact
 If you have any questions about the paper, code, or potential collaboration, please feel free to contact us.  
 Email: panqingtao@nudt.edu.cn  
-Scholar page: https://scholar.google.com/citations?hl=zh-CN&user=4s3egsAAAAAJ
+Google scholar page: https://scholar.google.com/citations?hl=zh-CN&user=4s3egsAAAAAJ

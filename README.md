@@ -8,6 +8,5 @@ This project primarily addresses how to accurately measure the actual influence 
 [2] Pan Q, et al. A state transition-based method for influence evaluation in networks[J]. Chaos, Solitons and Fractals.
 
 ## Contact
-If you have any questions about the paper, code, or potential collaboration, please feel free to contact us.  
-Email: panqingtao@nudt.edu.cn  
+If you have any questions about the paper, code, or potential collaboration, please feel free to contact us.   
 Google scholar page: https://scholar.google.com/citations?hl=zh-CN&user=4s3egsAAAAAJ

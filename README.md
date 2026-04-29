@@ -4,8 +4,10 @@
 This project primarily addresses how to accurately measure the actual influence spread of node sets and efficiently select the initial seed set for the influence maximization (IM) problem in networks. First, we adopt a dynamics model known as adaptive dissemination (AD). Second, a state transition-based method is proposed for accurately evaluating the expected influence of multi-hop area (EIMA). Subsequently, we integrate this method with three designed search strategies to solve the initial seed set.
 
 **For more details or to use this code, please cite the following papers:**  
-[1] Adaptive dissemination process in weighted hypergraphs[J]. Expert Systems with Applications.  
-[2] A state transition-based method for influence evaluation in networks[J]. Chaos, Solitons and Fractals.
+[1] Adaptive dissemination process in weighted hypergraphs[J]. Expert Systems with Applications.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://doi.org/10.1016/j.eswa.2024.126340  
+[2] A state transition-based method for influence evaluation in networks[J]. Chaos, Solitons and Fractals.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://doi.org/10.1016/j.chaos.2025.117713
 
 ## Contact
 If you have any questions about the paper, code, or potential collaboration, please feel free to contact us.   
